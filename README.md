@@ -393,7 +393,7 @@ if __name__ == "__main":
 | [gptalk.net](https://gptalk.net) | `g4f.Provider.GPTalk` | ✔️ | ✔️ | ✔️ | ![Active](https://img.shields.io/badge/Active-brightgreen) | ❌ |
 | [ai18.gptforlove.com](https://ai18.gptforlove.com) | `g4f.Provider.GptForLove` | ✔️ | ✔️ | ✔️ | ![Active](https://img.shields.io/badge/Active-brightgreen) | ❌ |
 | [gptgo.ai](https://gptgo.ai) | `g4f.Provider.GptGo` | ✔️ | ✔️ | ✔️ | ![Active](https://img.shields.io/badge/Active-brightgreen) | ❌ |
-| [chatgptis.org](https://chatgptis.org) | `g4f.Provider.Chatgptunlimitedfree` !| ✔️ | ❌ | ✔️ | ![Active](https://img.shields.io/badge/Active-brightgreen) | ❌ |
+| [chatgptis.org](https://chatgptis.org) | `g4f.Provider.Chatgptis` | ✔️ | ❌ | ✔️ | ![Active](https://img.shields.io/badge/Active-brightgreen) | ❌ |
 | [www.llama2.ai](https://www.llama2.ai) | `g4f.Provider.Llama2` | ✔️ | ✔️ | ✔️ | ![Active](https://img.shields.io/badge/Active-brightgreen) | ❌ |
 | [noowai.com](https://noowai.com) | `g4f.Provider.NoowAi` | ✔️ | ✔️ | ✔️ | ![Active](https://img.shields.io/badge/Active-brightgreen) | ❌ |
 | [chat.openai.com](https://chat.openai.com) | `g4f.Provider.OpenaiChat` | ✔️ | ✔️ | ✔️ | ![Active](https://img.shields.io/badge/Active-brightgreen) | ✔️ |
@@ -420,6 +420,7 @@ if __name__ == "__main":
 | [chat.getgpt.world](https://chat.getgpt.world/) | `g4f.Provider.GetGpt` | ✔️ | ✔️ | ❌ | ![Inactive](https://img.shields.io/badge/Inactive-red) | ❌ |
 | [gptgod.site](https://gptgod.site) | `g4f.Provider.GptGod` | ✔️ | ✔️ | ✔️ | ![Inactive](https://img.shields.io/badge/Inactive-red) | ❌ |
 | [komo.ai](https://komo.ai/api/ask) | `g4f.Provider.Komo` | ✔️ | ✔️ | ✔️ | ![Inactive](https://img.shields.io/badge/Inactive-red) | ❌ |
+| [5gpt.org](https://5gpt.org) | `g4f.Provider.5gpt` | ✔️ | ✔️ | ✔️ | ![Active](https://img.shields.io/badge/Active-brightgreen) | ❌ |
 | [ai.okmiku.com](https://ai.okmiku.com) | `g4f.Provider.MikuChat` | ✔️ | ✔️ | ✔️ | ![Inactive](https://img.shields.io/badge/Inactive-red) | ❌ |
 | [opchatgpts.net](https://opchatgpts.net) | `g4f.Provider.Opchatgpts` | ✔️ | ✔️ | ✔️ | ![Inactive](https://img.shields.io/badge/Inactive-red) | ❌ |
 | [www.perplexity.ai](https://www.perplexity.ai) | `g4f.Provider.PerplexityAi` | ✔️ | ❌ | ✔️ | ![Inactive](https://img.shields.io/badge/Inactive-red) | ❌ |
